@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/money_loji.iml" filepath="$PROJECT_DIR$/.idea/modules/money_loji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MoneyLoji.iml" filepath="$PROJECT_DIR$/.idea/modules/MoneyLoji.iml" group="MoneyLoji" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MoneyLoji/app" />
     </modules>
   </component>
 </project>

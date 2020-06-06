@@ -59,7 +59,7 @@ class MainActivity : BaseActivity<MainViewModel>(
             for (i in 0 until dataList.size) {
 
                 if (dataList[i].editText.text.toString().isEmpty()) {
-                    Toast.makeText(this, "Please Enter all the details", Toast.LENGTH_LONG).show()
+                    Toast.makeText(this, "Please Enter all the details", Toast.LENGTH_SHORT).show()
                     break
 
                 } else {
